@@ -1,0 +1,103 @@
+export const team_csk = {
+  name: "Chennai Super Kings",
+  shortName: "CSK",
+  logoUrl: "https://www.pngitem.com/middle/wbmowh_chennai-super-kings-logo-png-image-free-download/",
+  totalPlayersCount: 25,
+  totalCups: 5,
+  stadium: "M. A. Chidambaram Stadium",
+  sections: [
+    {
+      role: "Wicket Keepers",
+      players: [
+        {
+          id: 1,
+          name: "MS Dhoni",
+          image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team1playerImgNoBg_1773206232679.png",
+          country: "India",
+          matches: 278,
+          jerseyNumber: 7,
+          runs: 5439,
+          average: 38.30,
+          sixes: 264,
+          catches: 158,
+          stumping: 47,
+          hScore: "84*",
+          strikeRate: 137.45,
+          salary: "4",
+          salarySuffix: "cr",
+          fullName: "Mahendra Singh Dhoni",
+          dob: "07/07/1981",
+          nationality: "Indian",
+          isForeigner: "N",
+          description: "MS Dhoni, affectionately known as 'Thala' by the legion of CSK fans across the world has been associated with the franchise since the inception of the IPL. Under his leadership, CSK have won five IPL titles and 2 Champions League titles. Dhoni has also led India to the 2007 T20 WC win, 2011 WC win and 2013 Champions Trophy wins.",
+          battingStyle: "RHB",
+          bowlingStyle: "RM",
+        },
+        {
+          id: 2,
+          name: "Kartik Sharma",
+          image: "https://gallery.chennaisuperkings.com/PROD/TEAM/Team53playerImgNoBg_1773206702889.png",
+          country: "New Zealand",
+          matches: 30,
+        },
+      ],
+    },
+    {
+      role: "Batsmen",
+      players: [
+        {
+          id: 3,
+          name: "Ruturaj Gaikwad",
+          image: "https://example.com/players/gaikwad.png",
+          country: "India",
+          matches: 60,
+        },
+        {
+          id: 4,
+          name: "Ajinkya Rahane",
+          image: "https://example.com/players/rahane.png",
+          country: "India",
+          matches: 150,
+        },
+      ],
+    },
+    {
+      role: "All-Rounders",
+      players: [
+        {
+          id: 5,
+          name: "Ravindra Jadeja",
+          image: "https://example.com/players/jadeja.png",
+          country: "India",
+          matches: 220,
+        },
+        {
+          id: 6,
+          name: "Moeen Ali",
+          image: "https://example.com/players/moeen.png",
+          country: "England",
+          matches: 50,
+        },
+      ],
+    },
+    {
+      role: "Bowlers",
+      players: [
+        {
+          id: 7,
+          name: "Deepak Chahar",
+          image: "https://example.com/players/chahar.png",
+          country: "India",
+          matches: 70,
+        },
+        {
+          id: 8,
+          name: "Maheesh Theekshana",
+          image: "https://example.com/players/theekshana.png",
+          country: "Sri Lanka",
+          matches: 40,
+        },
+      ],
+    },
+  ],
+};
